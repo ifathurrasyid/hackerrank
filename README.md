@@ -1,2 +1,2 @@
 # hackerrank
-Lists of hackerrank questions that I've done
+Lists of hackerrank SQL questions that I've done
